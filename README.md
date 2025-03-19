@@ -9,6 +9,8 @@ This repository provides a comprehensive framework for assessing and valuing nat
 ### Carbon Storage Dynamics
 
 Our analysis reveals the profound environmental transformation caused by mining activities:
+![carbon_distribution_comparison](https://github.com/user-attachments/assets/8bc4f394-cb10-4f1d-b1c0-ff2ebb8057f7)
+
 
 - **Pristine Forests**: 
   - Carbon Storage: 300-350 Mg C/ha
