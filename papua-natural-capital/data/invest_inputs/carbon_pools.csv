@@ -1,0 +1,12 @@
+lucode,lulc_name,c_above,c_below,c_soil,c_dead,total_c
+10,Tree cover,200,40,100,20,360
+20,Shrubland,70,20,60,5,155
+30,Grassland,15,5,40,1,61
+40,Cropland,5,2,30,0,37
+50,Built-up,2,1,20,0,23
+60,Bare / sparse vegetation,0,0,5,0,5
+70,Snow and ice,0,0,0,0,0
+80,Permanent water bodies,0,0,0,0,0
+90,Herbaceous wetland,40,15,120,5,180
+95,Mangroves,160,80,450,10,700
+100,Moss and lichen,5,2,30,1,38
