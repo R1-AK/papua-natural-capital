@@ -5,41 +5,50 @@
 This repository provides a comprehensive framework for assessing and valuing natural capital in Central Papua Province, Indonesia, with a critical focus on understanding the environmental impacts of mining operations, particularly in the Grasberg mine region.
 ![study_area_map](https://github.com/user-attachments/assets/fd0b7eff-a0b2-4c90-9503-b1da9d5d21a8)
 
-## 🌍 Key Insights: Carbon Storage and Environmental Impact
+## 🌍 Key Findings from Carbon Storage Analysis of Central Papua
 
-### Carbon Storage Dynamics
+### 1. Land Cover Distribution
+![lulc_map_subset](https://github.com/user-attachments/assets/171a12d0-6c1b-46cc-a567-668a514622dc)
+- Comprehensive analysis of 11 different land cover classes: Tree cover, shrubland, grassland, mangroves
+- Tree cover identified as the dominant natural ecosystem
+- Significant carbon storage capacity variations across landscape
 
-Our analysis reveals the profound environmental transformation caused by mining activities:
-![carbon_distribution_comparison](https://github.com/user-attachments/assets/8bc4f394-cb10-4f1d-b1c0-ff2ebb8057f7)
+### 2. Carbon Storage Dynamics
+![carbon_comparison_bar](https://github.com/user-attachments/assets/0898a282-ffd1-4979-a581-61c7b28786fa)
+- **Pristine Forest Areas**: 322.0 Mg C/ha
+- **Mining Buffer Zones**: 379.6 Mg C/ha
+- **Active Mining Areas**: 398.7 Mg C/ha
 
+### 3. Economic Valuation
+- Carbon Storage Value in Pristine Forests: $47,275.59/ha
+- Economic Loss from Forest to Mining Conversion: $-11,251.24/ha
 
-- **Pristine Forests**: 
-  - Carbon Storage: 300-350 Mg C/ha
-  - Economic Value: Approximately $44,000 per hectare
-  - Represents the critical baseline of ecosystem health
+### 4. Restoration Potential
+![restoration_potential](https://github.com/user-attachments/assets/be888738-9799-45db-b5b1-60da1701b48f)
 
-- **Mining Buffer Zones**: 
-  - Carbon Storage: Reduced to 100-150 Mg C/ha
-  - Significant ecological disruption evident
+- Potential Carbon Sequestration in Buffer Zone: -172,676,399.2 Mg C
+- Estimated Restoration Value: $-25,348,895,402.35
 
-- **Active Mining Areas**: 
-  - Carbon Storage: Less than 50 Mg C/ha
-  - Substantial loss of natural carbon sequestration capacity
+### 5. Critical Recommendations
+- Protect remaining tree cover areas
+- Develop carbon financing mechanisms
+- Integrate carbon values into mining impact assessments
+- Establish comprehensive carbon stock monitoring system
+- Focus on high-carbon storage ecosystems like mangroves
 
-### Economic and Environmental Implications
+## 🔍 Project Overview
 
-- **Conversion Cost**: Approximately $38,000 per hectare lost when converting forest to mining
-- **Restoration Potential**: 
-  - Could sequester an additional 5.2 million Mg of Carbon
-  - Potential carbon value generation: Around $764 million
-  - Significant co-benefits for biodiversity and water regulation
+This research provides a comprehensive framework for assessing natural capital in Central Papua, focusing on:
+- Quantifying ecosystem services
+- Analyzing mining impacts
+- Evaluating restoration scenarios
+- Visualizing natural capital dynamics
 
-## 🔍 Project Highlights
-
-- **Cutting-edge Methodology**: Utilizes InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) models
-- **Comprehensive Analysis**: Covers carbon storage, habitat quality, water yield, and sediment dynamics
-- **Actionable Insights**: Provides a framework for understanding environmental trade-offs in resource extraction
-
+## Key Methodological Approach
+- Utilizes InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) models
+- Interdisciplinary analysis bridging environmental science and economics
+- Detailed geospatial and economic assessment
+  
 ## Unique Contributions
 
 1. **Quantitative Environmental Assessment**: Translates ecological changes into economic terms
