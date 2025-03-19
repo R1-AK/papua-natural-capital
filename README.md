@@ -5,7 +5,6 @@
 This repository provides a comprehensive framework for assessing and valuing natural capital in Central Papua Province, Indonesia, with a critical focus on understanding the environmental impacts of mining operations, particularly in the Grasberg mine region.
 ![study_area_map](https://github.com/user-attachments/assets/fd0b7eff-a0b2-4c90-9503-b1da9d5d21a8)
 
-
 ## 🌍 Key Insights: Carbon Storage and Environmental Impact
 
 ### Carbon Storage Dynamics
