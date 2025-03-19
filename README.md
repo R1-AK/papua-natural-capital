@@ -1,12 +1,9 @@
 # Natural Capital Assessment (Case Study: Freeport Grasberg mine, Indonesia)
 
 ## Overview
-
 This repository provides a comprehensive framework for assessing and valuing natural capital in Central Papua Province, Indonesia, with a critical focus on understanding the environmental impacts of mining operations, particularly in the Grasberg mine region.
 ![study_area_map](https://github.com/user-attachments/assets/fd0b7eff-a0b2-4c90-9503-b1da9d5d21a8)
-
 ## 🌍 Key Findings from Carbon Storage Analysis of Central Papua
-
 ### 1. Land Cover Distribution
 ![lulc_map_subset](https://github.com/user-attachments/assets/171a12d0-6c1b-46cc-a567-668a514622dc)
 - Comprehensive analysis of 11 different land cover classes: Tree cover, shrubland, grassland, mangroves
